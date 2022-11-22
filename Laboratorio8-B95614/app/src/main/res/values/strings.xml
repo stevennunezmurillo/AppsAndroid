@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LibrariesApp</string>
+    <string name="app_lottie">Lottie Activity</string>
+    <string name="app_holo_graph">Holo Graph Activity</string>
+    <string name="btnHoloGraph">Holo Graph</string>
+    <string name="btnLottie">Lottie</string>
+</resources>
